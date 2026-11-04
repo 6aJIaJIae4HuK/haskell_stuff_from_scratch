@@ -1,0 +1,5 @@
+[book]
+authors = ["Your Name"]
+language = "ru"
+title = "Custom Directory Example"
+src = "chapters"
