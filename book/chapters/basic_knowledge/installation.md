@@ -66,6 +66,7 @@ ghci> x
 
 <details>
 <summary><b>Ответ</b></summary>
+
 Потому что `x` и `y` имеют разные типы, и их нельзя сравнивать на равенство.
 </details>
 
@@ -73,5 +74,6 @@ ghci> x
 
 <details>
 <summary><b>Ответ</b></summary>
+
 Можно сделать например так `f = ((integerToDouble x) == y)`.
 </details>
