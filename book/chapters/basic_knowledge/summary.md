@@ -1,3 +1,0 @@
-- [Описание языка](definition.md)
-- [Установка](installation.md)
-- [Hello, world](hello_world.md)

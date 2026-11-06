@@ -1,0 +1,1 @@
+- [Способы определить функцию](01_ways_to_define_function.md)
