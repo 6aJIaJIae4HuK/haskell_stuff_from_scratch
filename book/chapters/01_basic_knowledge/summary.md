@@ -1,3 +1,3 @@
-- [Описание языка](01_definition.md)
-- [Установка](02_installation.md)
-- [Hello, world](03_hello_world.md)
+- [1.1. Описание языка](01_definition.md)
+- [1.2. Установка](02_installation.md)
+- [1.3. Первая программа](03_hello_world.md)
